@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # # Bike Sharing Data Analysis and Prediction Model
-# Discovergy GmbH
 # Author: Gaurav Sharma(gaurav.sharma0491juit@gmail.com)
 
 # # Import packages
